@@ -46,6 +46,12 @@ flutter pub get
 flutter run
 ```
 
+## Screenshots
+<img src="https://github.com/user-attachments/assets/fd6dd304-55c2-45ff-9e3f-b27c88ecbd7d" alt="Program List Screen" width="300" />
+<img src="https://github.com/user-attachments/assets/4abe1fab-f565-4d90-9800-809eb591ea04" alt="Program Details Screen" width="300" />
+<img src="https://github.com/user-attachments/assets/b37cb043-680e-4ead-91cd-8105b290a681" alt="Audio Player Screen" width="300" />
+
+
 ## API Endpoints
 
 This application interacts with the backend API hosted on Render. Below are the main API endpoints used:
