@@ -127,7 +127,7 @@ class _ProgramDetailsScreenState extends State<ProgramDetailsScreen>
                               padding: const EdgeInsets.all(16.0),
                               child: Text(
                                 programDetails!['description'] ??
-                                    'Immerse yourself in a transformative journey through this program, designed to offer deep insights and practical guidance on [specific topic]. Whether you\'re a seasoned practitioner or a newcomer, this program offers something for everyone. Explore a variety of engaging tracks, ranging from meditative practices to thought-provoking lectures, each crafted to enhance your understanding and well-being. Dive in to explore these enriching resources at your own pace, and unlock the potential for personal growth, relaxation, and mindfulness.',
+                                    'Immerse yourself in a transformative journey through this program, designed to offer deep insights and practical guidance. Whether you\'re a seasoned practitioner or a newcomer, this program offers something for everyone. Explore a variety of engaging tracks, ranging from meditative practices to thought-provoking lectures, each crafted to enhance your understanding and well-being. Dive in to explore these enriching resources at your own pace, and unlock the potential for personal growth, relaxation, and mindfulness.',
                                 style: TextStyle(
                                   fontSize: 16,
                                   color: Colors.teal[700],
