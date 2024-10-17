@@ -38,7 +38,6 @@ To run this application locally, follow these steps:
 ```bash
 cd innerBhakti_frontend
 
-Ensure you have Flutter installed. If not, follow the [Flutter installation guide](https://flutter.dev/docs/get-started/install).
 ```
 
 ## Installation
