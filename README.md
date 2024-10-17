@@ -1,4 +1,4 @@
-# Inner Bhakti Frontend
+# InnerBhakti_assignment Frontend
 
 ## Overview
 The Inner Bhakti application is a meditation platform designed to provide users with various meditation programs and audio tracks. This frontend application allows users to browse programs, listen to audio tracks, and enjoy a seamless meditation experience.
