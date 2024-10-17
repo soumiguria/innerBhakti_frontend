@@ -10,8 +10,6 @@ The Inner Bhakti application is a meditation platform designed to provide users 
 - [API Endpoints](#api-endpoints)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Browse a list of meditation programs.
